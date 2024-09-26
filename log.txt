@@ -1,0 +1,15 @@
+2024-09-25 20:35:56.833741: Movido: 01-Basico-Estruturas-Dados-turma5.pdf para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-17
+2024-09-25 20:35:56.833741: Movido: android-studio-2024.1.2.12-windows.exe para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-25
+2024-09-25 20:35:56.833741: Movido: Appium-Server-GUI-windows-1.22.3-4.exe para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-25
+2024-09-25 20:35:56.833741: Movido: atividades.rar para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-17
+2024-09-25 20:35:56.833741: Movido: CURRICULO WANDERSON LIMA FERREIRA.pdf para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-24
+2024-09-25 20:35:56.833741: Movido: CÓDIGO DO TRABALHO 1 WORKI.pdf para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-24
+2024-09-25 20:35:56.833741: Movido: jdk-23_windows-x64_bin.exe para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-25
+2024-09-25 20:35:56.833741: Movido: node-v20.17.0-x64.msi para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-25
+2024-09-25 20:35:56.833741: Movido: NOTA_INFORMATIVA_01_2024_DAPSE_EDITAL_05_REOPCAO_DE_CURSO_alteracao_cronograma.pdf para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-18
+2024-09-25 20:35:56.833741: Movido: python-3.12.6-amd64.exe para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-25
+2024-09-25 20:35:56.833741: Movido: RESULTADOPRELIMINAREDITAL052024REOPODECURSO.pdf para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-19
+2024-09-25 20:35:56.833741: Movido: SEI_UFAM - 2243904 - Ofício-Circular.pdf para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-19
+2024-09-25 20:35:56.833741: Movido: Story instagram assistência técnica moderno azul.png para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-19
+2024-09-25 20:35:56.849335: Movido: teste.csv para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-25
+2024-09-25 20:35:56.849335: Movido: Trabalho 1.zip para C:/Users/Wanderson Ferreira/Desktop/RONJA- A FILHA DO LADRÃO\data\2024-09-21
